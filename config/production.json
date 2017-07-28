@@ -1,0 +1,8 @@
+{
+  "logger": {},
+  "mongoDbUrl": "mongodb://localhost:27017/testTask?socketTimeoutMS=60000",
+  "pathToUsersFiles": "./src/main/resources/downloads/",
+  "bytesToMegaBytes": 1048576,
+  "thumbnailsSize": [128, 96, 32],
+  "typesFiles": ["audio", "video", "image"]
+}
